@@ -8,7 +8,7 @@ Simple site for student portal made with PHP native with MVC design pattern
 ![login](https://user-images.githubusercontent.com/47919868/105636725-50cfa400-5e72-11eb-833d-9c2626c4f0bd.PNG)
 
 ## 2) Each student has a profile where he can view his grades and his registered courses 
-![profile](https://user-images.githubusercontent.com/47919868/105636726-52996780-5e72-11eb-86eb-602364b99673.PNG)
+![profile](https://user-images.githubusercontent.com/47919868/105636956-7315f180-5e73-11eb-8f50-39f4d6500338.PNG)
 
 ## 3) Students can register courses
 ![courses](https://user-images.githubusercontent.com/47919868/105636727-53ca9480-5e72-11eb-892b-9fd07953c6b7.PNG)
